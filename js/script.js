@@ -116,3 +116,28 @@ let b = 3;
 let x;
 console.log(x=(16-a)/2+b);
 console.log(x, typeof(x));
+
+//9
+
+let stroka1 = "Бывало, спит у ног собака,";
+let stroka2 = "костер занявшийся гудит,";
+let stroka3 = "и женщина из полумрака";
+let stroka4 = "глазами зыбкими глядит.";
+let stroka5 = "Потом под пихтою приляжет";
+let stroka6 = "на куртку рыжую мою";
+let stroka7 = "и мне, задумчивая, скажет:";
+let stroka8 = "\"А ну-ка, спой!..\"- и я пою.";
+
+
+console.log(stroka1);
+console.log(stroka2);
+console.log(stroka3);
+console.log(stroka4);
+console.log('');
+console.log('');
+console.log(stroka5);
+console.log(stroka6);
+console.log(stroka7);
+console.log('');
+console.log('');
+console.log(stroka8);
