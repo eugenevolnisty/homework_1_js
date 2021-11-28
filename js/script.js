@@ -108,6 +108,7 @@ console.log(pereplata, typeof(pereplata));
 /*console.log(pereplata=2000000*1.1*1.1*1.1*1.1*1.1-2000000);
 console.log(pereplata, typeof(pereplata));*/
 
+
 //8
 
 /*let a = 8;
