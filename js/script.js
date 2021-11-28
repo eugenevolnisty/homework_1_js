@@ -111,7 +111,8 @@ console.log(pereplata, typeof(pereplata));*/
 
 //8
 
-/*let a = 8;
+let a = 8;
 let b = 3;
 let x;
-console.log(a+2(x-b)=16); */
+console.log(x=(16-a)/2+b);
+console.log(x, typeof(x));
